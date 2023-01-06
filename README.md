@@ -79,7 +79,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 ![](boat/7..png)
 ![](/boat/mmmmmmmmmm.png)
 
-
+-- Total Population vs Total Deaths -- Shows likelihood of dying if you contract covid in your country
 ![](/boat/8..png)
 ![](/boat/mmmmmmmmmmmmm.png)
 

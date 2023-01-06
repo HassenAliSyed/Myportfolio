@@ -87,7 +87,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 ![](/boat/10..png)
 ![](/boat/Th.....png)
 
-
+-- Countries with Highest Infection Rate compared to Deaths
 ![](/boat/11..png)
 ![](/boat/13..png)
 

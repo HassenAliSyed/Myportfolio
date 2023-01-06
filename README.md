@@ -58,7 +58,6 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 ![](/boat/2..png)
 ![](/boat/mmmm.png)
 
-
 -- Total Cases vs Total Deaths
 -- Shows likelihood of dying if you contract covid in your country
 ![](/boat/3..png)
@@ -73,7 +72,6 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 -- Shows likelihood of dying if you contract covid in your country
 ![](boat/6..png)
 ![](/boat/mmmmmmmm.png)
-
 
 -- Countries with Highest Infection Rate compared to Population
 ![](boat/7..png)
@@ -91,10 +89,8 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 ![](/boat/11..png)
 ![](/boat/13..png)
 
-
 ![](/boat/nn.png)
 ![](/boat/nnnnnnnnnnnnn.png)
-
 
 ![](/boat/14..png)
 ![](/boat/nnnnnnnnnnnnnnn.png)

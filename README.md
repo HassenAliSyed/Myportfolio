@@ -54,28 +54,56 @@ Show total revenue in year 2020 in Chennai
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+— Select all data we are working with in CovidDeaths table and Select all data we are going to be working with in Covid Vaccination table
 ![](/boat/2..png)
 ![](/boat/mmmm.png)
+
+
+-- Total Cases vs Total Deaths
+-- Shows likelihood of dying if you contract covid in your country
 ![](/boat/3..png)
 ![](/boat/mmmmm.png)
+
+-- Total Cases vs Population
+-- Shows what percentage of population infected 
 ![](/boat/4..png)
 ![](/boat/mmmmmm.png)
+
+-- Total Cases vs Total Deaths
+-- Shows likelihood of dying if you contract covid in your country
 ![](boat/6..png)
 ![](/boat/mmmmmmmm.png)
+
+
+-- Countries with Highest Infection Rate compared to Population
 ![](boat/7..png)
 ![](/boat/mmmmmmmmmm.png)
+
+
 ![](/boat/8..png)
 ![](/boat/mmmmmmmmmmmmm.png)
+
+— Find content that is not null
 ![](/boat/10..png)
 ![](/boat/Th.....png)
+
+
 ![](/boat/11..png)
 ![](/boat/13..png)
+
+
 ![](/boat/nn.png)
 ![](/boat/nnnnnnnnnnnnn.png)
+
+
 ![](/boat/14..png)
 ![](/boat/nnnnnnnnnnnnnnn.png)
+
+-- Using CTE to perform Calculation on Partition By in previous query
 ![](/boat/15..png)
 ![](/boat/nnnnnnnnnnnnnn.png)
+
+-- Using Temp Table to perform Calculation on Partition By in previous query
 ![](/boat/Temp1.png)
 ![](/boat/Temp%202.png)
 #### Data Visualization
